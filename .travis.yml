@@ -36,7 +36,7 @@ install:
   - ls -la
   - rm -r -f .buildozer
   - ls -la
-  - rm -r -f /home/travis/build/EldorAxmedovf/Kalkulyator/.buildozer
+  - rm -r -f /home/travis/build/EldorAxmedov/Kalkulyator/.buildozer
   - ls -l /home/travis/
   - ls -l /home/travis/build/EldorAxmedov/Kalkulyator/
   - ls -l
